@@ -1,4 +1,8 @@
 ﻿#include <iostream>
+#include "Class1.h"
+#include "Class2.h"
+#include "Class3.h"
+#include "OutsideClass.h"
 
 //------------------1------------------
 //namespace myns1 
@@ -34,3 +38,14 @@
 //    b.show();
 //}
 //-------------------------------------
+
+//------------------2------------------
+int main()
+{
+	Kristina::Class2 a;
+	Kristina::Class3 b;
+	OutsideClass c;
+	a.show();
+	b.show();
+	c.show();
+}

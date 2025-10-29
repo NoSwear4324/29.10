@@ -1,5 +1,4 @@
 #pragma once
-#include <iostream>
 #include "Class1.h"
 
 namespace Kristina
