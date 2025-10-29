@@ -21,7 +21,7 @@ namespace myns2
         void show()const
         {
             using std::cout;
-            cout << "Myclass from ns2";
+            cout << " Myclass from ns2";
         }
     };
 }
