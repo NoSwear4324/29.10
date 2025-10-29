@@ -125,6 +125,11 @@
   <ItemGroup>
     <ClCompile Include="29.10.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Class1.h" />
+    <ClInclude Include="Class2.h" />
+    <ClInclude Include="Class3.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
